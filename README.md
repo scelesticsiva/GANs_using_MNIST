@@ -6,7 +6,7 @@ Here I have implemented one particular type of generative model called Generativ
 
 ![alt tag] (https://github.com/scelesticsiva/GANs_using_MNIST/blob/master/samples/transitions.jpg)
 
-This implementation was done with one goal in mind, which is to make the user understand the architecture of GANs and how it can be implemented on MNIST dataset (“hello world” of machine learning enthusiasts).  This implementation was done on Tensorflow, a recently open sourced machine learning library by Google.
+This implementation was done with one goal in mind, which is to make the user understand the architecture of GANs and how it can be implemented on MNIST dataset (“hello world” of machine learning enthusiasts).  This implementation was done in Tensorflow, a recently open sourced machine learning library by Google.
 
 ## Dependencies
 ```
