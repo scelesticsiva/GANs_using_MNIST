@@ -8,4 +8,11 @@ Here I have implemented one particular type of generative model called Generativ
   <img src = "/samples/sample1.jpg"/>
 </p>
 
+This implementation was done with one goal in mind, which is to make the user understand the architecture of GANs and how it can be implemented on MNIST dataset (“hello world” of machine learning enthusiasts).  This implementation was done on Tensorflow, a recently open sourced machine learning library by Google.
 
+## Dependencies
+```
+numpy
+matplotlib
+tensorflow
+```
