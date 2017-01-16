@@ -5,7 +5,7 @@ Humans always have a fascination to make machines strangely human-like, one such
 Here I have implemented one particular type of generative model called Generative Adversarial Network(GAN), you can find out more about them <a href = "https://arxiv.org/abs/1406.2661">here.</a>
 
 <p align = "center">
-  <img src = "/samples/transition.jpg"/>
+  <img src = "GANs_using_MNIST/samples/transitions.jpg"/>
 </p>
 
 This implementation was done with one goal in mind, which is to make the user understand the architecture of GANs and how it can be implemented on MNIST dataset (“hello world” of machine learning enthusiasts).  This implementation was done on Tensorflow, a recently open sourced machine learning library by Google.
